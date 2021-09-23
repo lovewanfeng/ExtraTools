@@ -70,7 +70,7 @@ public abstract class ElectricComposter extends AContainer implements RecipeDisp
 
     @Override
     public String getInventoryTitle() {
-        return "&cElectric Composter";
+        return "&c电动堆肥机";
     }
 
     @Override
